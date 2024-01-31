@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn-blue{
+    border: 1px solid;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    background-color: #333366;
+}
+.btn-green{
+    border: 1px solid;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    background-color: #92944e;
+}
+.btn-buy{
+    padding: 8px 90px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    background-color: #0084b4;
+}
+.card-style{
+    box-shadow: 7px 7px 15px 15px rgba(22, 22, 22, 0.459);
+}
