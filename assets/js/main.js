@@ -15,8 +15,8 @@ blueBtn.addEventListener("click", () => {
     class="card-img-top" 
     alt="..."/>
     `;
-    classList.add("btnBlue")
-    classList.remove("btnGreen")
+    classList.add("btn-blue")
+    classList.remove("btn-green")
 });
 
 greenBtn.addEventListener("click", () => {
@@ -26,6 +26,6 @@ greenBtn.addEventListener("click", () => {
     class="card-img-top" 
     alt="..."/>
     `;
-    classList.add("btnGreen")
-    classList.remove("btnBlue")
+    classList.add("btn-green")
+    classList.remove("btn-blue")
 });
